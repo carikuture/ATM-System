@@ -1,2 +1,3 @@
-# ATM-System
-G11-Computer Programming 2 Project ATM System in Java
+# Simple Calcu
+G11-Computer Programming 1
+Simple Calculator in C++
